@@ -1,4 +1,4 @@
-# UnHided
+# UNOn
 ## Env Vars
 ```
 API_PASSWORD = Yourpassword
